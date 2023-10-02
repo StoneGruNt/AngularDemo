@@ -1,0 +1,223 @@
+.shop{
+    word-wrap: break-word;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 2.14286;
+    color:black;
+    background-color:#f7f6f7;
+    box-sizing: inherit;
+    margin: 0 0 10px;
+    margin-bottom: 1.5em;
+    text-align: center;
+    width: 350px;
+    height: 70px;
+  }
+
+  .shop:hover{
+    color: #fdfdff;
+    background-color: #000;
+  }
+
+  .a{
+    padding-top: 60px;
+  }
+
+  .amg{
+   
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 2.14286;
+    box-sizing: inherit;
+    position: relative;
+    color: #515151;
+   
+    width: auto;
+    word-wrap: break-word;
+    padding: 80px 70px 150px 60px !important;
+    margin: 50px 0 !important;
+    border: none;
+    text-align: center;
+  }
+
+  .h1{
+    cursor: pointer;
+  }
+
+  /*  */
+  /*  */
+  .table{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5em;
+    vertical-align: middle;
+    border-right: 0;
+    color: #000;
+    
+    border-collapse: separate;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1070px;
+    text-align:justify;
+    border-spacing: 18px;
+}
+
+.thead-dark{
+  background-color: #fff; color: #000;
+  word-wrap: break-word;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 2.14286;
+  
+  border-spacing: 2px;
+  text-align: left;
+  border-collapse: separate;
+  box-sizing: inherit;
+  border-bottom: 1px solid #23232c;
+}
+
+/* X */
+
+
+.dh {
+    color:  #5c5c5c; 
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 700;
+    font-display:initial;
+  }
+  
+  .dh:hover {
+    color: #000; 
+  }
+  
+  .dh:active {
+    color: #111111; 
+  }
+
+  .remove{
+
+    display: block;
+    font-size: 16px;
+    font-weight: 200;
+  }
+
+  /* Quantitiy */
+
+  .quantity-box {
+    
+
+
+  }
+  
+  .quantity-box::before,
+  .quantity-box::after {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+  }
+
+  .quantity-box:hover{
+    color: #111111; 
+  }
+
+
+
+  .cart-totals {
+    width: 1100px; 
+    margin: 0 auto; 
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5em;
+    vertical-align: middle;
+    border-right: 0;
+   
+  }
+  
+  .box1{
+    border: 1px solid #b4afaf;
+    padding: 20px;
+    text-align: center;
+    background-color:white;
+    margin-bottom: 120px;
+  }
+  
+  .cart-title1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 800px;
+  }
+  
+  .calculate-shipping-btn1 {
+    color: black;
+    text-decoration: underline;
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .proceed-to-checkout-btn1 {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    background-color: #ffffff;
+    border: 2px solid black;
+
+  }
+
+  .proceed-to-checkout-btn1:hover {
+    color: white;
+    background-color: black;
+  }
+  
+
+  .S2{
+    width: 300px; 
+    margin: 0;
+    position: relative;
+    left: 300px;
+    line-height: 2.14286;
+    text-align: left;
+  }
+  .S3{
+
+    margin: 0;
+    position: relative;
+    left: 200px;
+    text-align: left;
+  }
+  .S4{
+
+    text-align:left;
+    font-family: Arial, sans-serif;
+  }
+  .red{
+    color:red;
+  }
+  .smae{
+    font-size: 20px;
+    margin: 15px;
+    color:  #5c5c5c;
+    cursor: pointer;
+  }
+
+
+  .purchase-complete-message {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #E5F7E0;
+    border: 1px solid #4CAF50;
+    border-radius: 5px;
+  }
+  

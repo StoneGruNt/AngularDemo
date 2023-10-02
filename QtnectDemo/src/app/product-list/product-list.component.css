@@ -1,0 +1,87 @@
+.container{
+  padding-top: 20px;
+  display:-webkit-flex;
+  padding-top: 50px;
+}
+
+.left{
+  /* display: flex;
+  justify-content: right; */
+  width:10%;
+  padding-top: 80px;
+}
+
+.right{
+  width:80%;
+  padding-left:10%;
+}
+
+.checkbox-label {
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 10px; 
+}
+
+.check {
+  vertical-align: middle;
+  margin-right: 5px; 
+}
+
+
+.card{
+
+  border:none;
+}
+
+.h1{
+  cursor: pointer;
+}
+
+.title{
+
+    cursor: pointer;
+   text-align: center;
+    color: #333;
+
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Lora;
+
+
+}
+
+.card-img-top{
+  max-width: 100%;
+  cursor:pointer;
+  
+}
+
+.price{
+
+  text-align: center;
+  font-family: SourceSansPro;
+  font-size: 15px;
+  font-weight: 600;
+
+}
+
+.bt{
+  
+  font-size: 13px;
+  font-weight: 600;
+  color:black;
+  background-color:white;
+  height:30px;
+  width: 100%;
+
+}
+
+.bt:hover{
+  color:white;
+  background-color:black;
+}
+
+.container-fluid{
+  color: black;
+}
+
